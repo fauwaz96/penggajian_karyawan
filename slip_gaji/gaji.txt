@@ -1,0 +1,13 @@
+Nama Karyawan : fauwas
+Pendidikan Terakhir : S1
+Kelamin : Laki-laki
+Gaji Pokok : 6000000
+
+Sisa Cuti : fauwas
+Cuti  : 0
+Izin  : 0
+Sakit : 0
+Alfa  : 0
+Total Potongan : 0
+
+Lembur : 0

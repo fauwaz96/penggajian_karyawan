@@ -1,0 +1,21 @@
+============  Slip Gaji Karyawan PT Sumber Rejeki  ============
+
+Nama Karyawan       : Gilang
+Pendidikan Terakhir : SMA
+Kelamin             : Perempuan
+Tanggal             : 12-05-2022
+________________________________________________________
+
+Gaji Pokok : Rp. 4500000
+
+Lembur     : Rp. 90000
+
+Jumlah Potongan 
+Cuti     : Rp. 0
+Izin     : Rp. 100000
+Sakit    : Rp. 0
+Alfa     : Rp. 0
+Total Potongan : Rp. 100000
+
+
+Total Gaji yang Diterima : Rp. 4400003

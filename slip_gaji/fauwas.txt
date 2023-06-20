@@ -1,0 +1,21 @@
+============  Slip Gaji Karyawan PT Sumber Rejeki  ============
+
+Nama Karyawan       : Fauwas
+Pendidikan Terakhir : S1
+Kelamin             : Laki-laki
+Tanggal             : 19-05-2022
+________________________________________________________
+
+Gaji Pokok : Rp. 6000000
+
+Lembur     : Rp. 300000
+
+Jumlah Potongan 
+Cuti     : Rp. 0
+Izin     : Rp. 600000
+Sakit    : Rp. 0
+Alfa     : Rp. 0
+Total Potongan : Rp. 600000
+
+
+Total Gaji yang Diterima : Rp. 5400012

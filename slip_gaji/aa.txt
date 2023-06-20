@@ -1,0 +1,13 @@
+Nama Karyawan : aa
+Pendidikan Terakhir : SMA
+Kelamin : Laki-laki
+Gaji Pokok : 4500000
+
+Sisa Cuti : aa
+Cuti  : 0
+Izin  : 0
+Sakit : 0
+Alfa  : 0
+Total Potongan : 0
+
+Lembur : 0
